@@ -79,8 +79,16 @@ Conservé `"Flujo profesional"` (la versión de `feature/opcion-6`) porque era e
 4. Guardé el archivo, arranqué la app para verificar que todo se veía correctamente y realicé el commit de resolución.
 
 ![Captura 5](./screenshots/captura_05.png)
+
 ![Captura 6](./screenshots/captura_06.png)
+
 ![Captura 7](./screenshots/captura_07.png)
 ---
 ## Tarea 6
+Se puede ver el historial de commits de la practica:
+
 ![Captura 8](./screenshots/captura_08.png)
+
+## Conclusión
+
+Lo que me resulta más dificil de git es corregir errores cuando cambias código en una rama incorrecta o quieres limpiar los hisotiral de commits. Despues de esta practica la resolución de conflictos tiene mucho más sentido.
